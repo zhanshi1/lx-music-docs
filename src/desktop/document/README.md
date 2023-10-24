@@ -23,3 +23,8 @@ title: 常见问题
 ## 如何使用本文档
 
 ![img](https://i3.mjj.rip/2023/07/14/b4f9e9f3a2b7ff3a47694b496a39ed19.png)
+
+下载安装后，能搜索到歌曲，播放时全部是下面这种情况，哪位大佬知道如何解决吗
+
+![image](https://github.com/Folltoshe/lx-music-docs/assets/30691017/872a10e1-2748-4883-bdbc-26afbe54b10b)
+
